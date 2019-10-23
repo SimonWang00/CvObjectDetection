@@ -69,5 +69,6 @@ class ImageDetection():
 		cv2.waitKey(3000)
 
 
-test_image = './testSet/demo.jpg'
-ImageDetection().detection(test_image)
+if __name__ == '__main__':
+	test_image = './testSet/car.jpg'
+	ImageDetection().detection(test_image)
