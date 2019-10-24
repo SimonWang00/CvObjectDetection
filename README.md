@@ -5,7 +5,12 @@
 
 2、自然场景下的文本识别；
 
-### 目标检测示例：
+### 识别库
+1、目标检测的库包含在了model目录中；
+
+2、文本检测的库，百度云下载地址：https://pan.baidu.com/s/1C6SNipQ3zQIWwuIAFcbNiw ，提取码：qvjo 
+
+### 目标检测示例
 ##### 检测车展上的汽车美女：
 <center class="half">
     <img src="https://raw.githubusercontent.com/SimonWang00/CvObjectDetection/master/result/result.jpg" width="600">
@@ -16,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/SimonWang00/CvObjectDetection/master/result/result2.jpg" width="600">
 </center>
 
-### 文本检测示例：
+### 文本检测示例
 ##### 检测图片中的文本：
 <center class="half">
     <img src="https://raw.githubusercontent.com/SimonWang00/CvObjectDetection/master/result/text1.jpg" width="600">
